@@ -1,1 +1,0 @@
-# bobol-password-wifi
